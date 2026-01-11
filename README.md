@@ -6,10 +6,9 @@
 ---
 
 ## 📱 Overview | نظرة عامة
-**EN:**  
+ 
 Skillsy is my final project for the Flutter App Development Bootcamp. It’s a personal development companion app that lets you add skills, track progress, and store your profile securely.
 
-**AR:**  
                                                                                                                                                             اتممت المشروع النهائي لمعسكر تطوير التطبيقات بفلاتر. "سكيلزي" هو تطبيق رفيقك في تطوير ذاتك، يمكنك من إضافة مهارات، تتبع تقدمك، وحفظ ملفك الشخصي بأمان. 
 
 ---
